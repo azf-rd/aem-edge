@@ -7,6 +7,13 @@
       "environments": ["edit"],
       "url": "/tools/sidekick/library.html",
       "includePaths": ["**.docx**"]
+    },    
+    {
+      "id": "blocks",
+      "title": "Blocks",
+      "environments": ["edit"],
+      "url": "/tools/sidekick/blocks.html",
+      "includePaths": ["**.docx**"]
     }
   ]
 }
