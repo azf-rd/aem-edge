@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1-76rOkEKCIT-kUU_iq2i3XA1GBkf4m1w
+  /: 
+    url: "https://author-p136715-e1377466.adobeaemcloud.com/bin/franklin.delivery/azf-rd/aem-edge/main"
+    type: "markup"
+    suffix: ".html"
